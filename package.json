@@ -1,0 +1,24 @@
+{
+  "name": "catchup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleksiirudiukredocly/catchup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oleksiirudiukredocly/catchup/issues"
+  },
+  "homepage": "https://github.com/oleksiirudiukredocly/catchup#readme",
+  "dependencies": {
+    "@redocly/realm": "0.0.0-20260408104843"
+  }
+}
