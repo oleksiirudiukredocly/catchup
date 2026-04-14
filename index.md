@@ -1,18 +1,39 @@
-# Start something new
+# How to Clean the Kitchen: A Rhyming Guide
 
-There's a real excitement to starting something new.
+Welcome to the kitchen, where the mess likes to play,\
+Let's tidy it up, hip-hip-hooray!
 
-- A blank page
-- A fresh opportunity
-- Limitless potential
+First, grab a sponge and some soap,\
+With a smile on your face and a heart full of hope.\
+Scrub those dishes, let them gleam,\
+In a sparkly kitchen, we all dream!
 
-## Good for writers
+Wipe the counters, left to right,\
+Make them shine, oh so bright.\
+Spills and crumbs, they have no chance,\
+In our clean kitchen dance.
 
-Writers need strong tooling so they can deliver a lot of content in a short time.
-Efficiency is key, so this platform supports [Markdoc](https://markdoc.dev/) format (it's a lot like Markdown, but with added niceness).
+Sweep the floor, don’t miss a spot,\
+Under the table, give it a shot.\
+Banish the dirt, the dust, the grime,\
+A clean kitchen is simply sublime.
 
-Build-in link checking and branch previews lets writers move quickly and safely when creating content or managing updates.
+Empty the trash, don’t delay,\
+Take it out and save the day.\
+Replace the bag, fresh and new,\
+A simple task, but crucial too.
 
-## Good for readers
+Fridge and pantry, check them out,\
+Throw away what's gone bad, no doubt.\
+Organize and make it neat,\
+A tidy kitchen can’t be beat!
 
-Clean layout and a visible table of contents makes good content a pleasure to read and process.
+Microwave and oven, they need love,\
+Clean them well, give them a shove.\
+No more splatters, no more mess,\
+A sparkling clean, we must confess.
+
+Now you’re done, take a bow,\
+You’ve cleaned the kitchen, and here’s how.\
+With a bit of effort and a lot of cheer,\
+You’ve made the kitchen pristine and full of fear!
