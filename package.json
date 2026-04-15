@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/oleksiirudiukredocly/catchup#readme",
   "dependencies": {
-    "@redocly/realm": "0.0.0-20260408104843",
+    "@redocly/realm": "0.0.0-20260415193043"
+  },
+  "overrides": {
     "@redocly/config": "0.0.0-20260408113949"
   }
 }
