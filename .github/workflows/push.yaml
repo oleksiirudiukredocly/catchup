@@ -20,7 +20,7 @@ jobs:
           organization: 'testing_redocly'
           project: 'artem-oleksii-catch-up'
           mountPath: '/apis/learning'
-          files: 'apis/learning/index.md apis/learning/openapi.yaml'
+          files: '/apis/learning/index.md /apis/learning/openapi.yaml'
           domain: 'https://app.cloud.redocly.com'
           branch: 'main'
           defaultBranch: 'main'
