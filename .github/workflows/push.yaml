@@ -20,8 +20,7 @@ jobs:
           organization: 'testing_redocly'
           project: 'artem-oleksii-catch-up'
           mountPath: '/test'
-          files: '/index.md'
+          files: 'index.md'
           domain: 'https://app.cloud.redocly.com'
-          defaultBranch: main
         env:
           REDOCLY_AUTHORIZATION: ${{ secrets.REDOCLY_AUTHORIZATION }}
