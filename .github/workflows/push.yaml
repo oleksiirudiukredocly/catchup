@@ -22,5 +22,6 @@ jobs:
           mountPath: '/apis/Learning API'
           files: 'apis/learning'
           domain: 'https://app.cloud.redocly.com'
+          defaultBranch: 'main'
         env:
           REDOCLY_AUTHORIZATION: ${{ secrets.REDOCLY_AUTHORIZATION }}
