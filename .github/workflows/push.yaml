@@ -20,7 +20,7 @@ jobs:
           organization: 'testing_redocly'
           project: 'artem-oleksii-catch-up'
           mountPath: '/apis/Learning API'
-          files: 'apis/Learning API'
+          files: 'apis/learning'
           domain: 'https://app.cloud.redocly.com'
         env:
           REDOCLY_AUTHORIZATION: ${{ secrets.REDOCLY_AUTHORIZATION }}
