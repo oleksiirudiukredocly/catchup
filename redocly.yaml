@@ -16,3 +16,10 @@ footer:
           label: Markdoc
         - href: https://openapis.org
           label: OpenAPI
+
+access:
+  rbac:
+    content:
+      '**':
+        anonymous: none
+        authenticated: read
